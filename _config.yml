@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Frank Steimle
-show_downloads: "false"
+show_downloads: false
 github:
   is_project_page: false
