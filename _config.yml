@@ -1,9 +1,11 @@
-theme: jekyll-theme-slate
-title: Frank Steimle
+# Site settings
+title: Homepage of Frank Steimle
+description: Homepage of Frank Steimle
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
+# User settings
+username: Frank Steimle
+user_description: 
+user_title:
 
-github:
-   is_project_page: false
-
-
-show_downloads: false
